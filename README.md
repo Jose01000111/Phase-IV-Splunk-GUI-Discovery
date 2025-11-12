@@ -1,6 +1,6 @@
 # Phase IV — 🔑 GUI Discovery
 
-**Objective:** Explore the Splunk GUI, understand its components, and document my findings. This serves as a glossary/reference for key elements in Splunk.
+In this lab, I’m getting hands-on with the Splunk GUI to familiarize myself with its layout and components, making it easier to navigate and understand intuitively. I’m also documenting what I find so I can use it as a reference for future work.
 
 ---
 
